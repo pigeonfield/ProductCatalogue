@@ -1,0 +1,266 @@
+﻿[
+  {
+    "ProductId": 1,
+    "Name": "Table",
+    "Description": "Lorem ipsum and lorem ipsum",
+    "Code": "F-1",
+    "Category": "Furniture",
+    "Photos": [
+      {
+        "PhotoId": 1,
+        "PhotoUrl": "www.google.pl",
+        "IsMain": true,
+        "ProductId": 1
+      },
+      {
+        "PhotoId": 2,
+        "PhotoUrl": "www.google.pl",
+        "IsMain": false,
+        "ProductId": 1
+      }
+    ],
+    "Reviews": [
+      {
+        "ReviewId": 1,
+        "Content": "Lorem Ipsum, Lorem Ipsum",
+        "ProductId": 1
+      },
+      {
+        "ReviewId": 2,
+        "Content": "LoooooLorem Ipsum, Lorem Ipsum",
+        "ProductId": 1
+      }
+    ]
+  },
+  {
+    "ProductId": 2,
+    "Name": "Chair",
+    "Description": "Lorem ipsum and lorem ipsum",
+    "Code": "F-2",
+    "Category": "Furniture",
+    "Photos": [
+      {
+        "PhotoId": 3,
+        "PhotoUrl": "www.google.pl",
+        "IsMain": true,
+        "ProductId": 2
+      },
+      {
+        "PhotoId": 4,
+        "PhotoUrl": "www.google.pl",
+        "IsMain": false,
+        "ProductId": 2
+      }
+    ],
+    "Reviews": [
+      {
+        "ReviewId": 3,
+        "Content": "Lorem Ipsum, Lorem Ipsum",
+        "ProductId": 2
+      },
+      {
+        "ReviewId": 4,
+        "Content": "LoooooLorem Ipsum, Lorem Ipsum",
+        "ProductId": 2
+      }
+    ]
+  },
+  {
+    "ProductId": 3,
+    "Name": "Armchair",
+    "Description": "Lorem ipsum and lorem ipsum",
+    "Code": "F-3",
+    "Category": "Furniture",
+    "Photos": [
+      {
+        "PhotoId": 5,
+        "PhotoUrl": "www.google.pl",
+        "IsMain": true,
+        "ProductId": 3
+      },
+      {
+        "PhotoId": 6,
+        "PhotoUrl": "www.google.pl",
+        "IsMain": false,
+        "ProductId": 3
+      }
+    ],
+    "Reviews": [
+      {
+        "ReviewId": 5,
+        "Content": "Lorem Ipsum, Lorem Ipsum",
+        "ProductId": 3
+      },
+      {
+        "ReviewId": 6,
+        "Content": "LoooooLorem Ipsum, Lorem Ipsum",
+        "ProductId": 3
+      }
+    ]
+  },
+  {
+    "ProductId": 4,
+    "Name": "Plant",
+    "Description": "Lorem ipsum and lorem ipsum",
+    "Code": "P-1",
+    "Category": "Plants",
+    "Photos": [
+      {
+        "PhotoId": 7,
+        "PhotoUrl": "www.google.pl",
+        "IsMain": true,
+        "ProductId": 4
+      },
+      {
+        "PhotoId": 8,
+        "PhotoUrl": "www.google.pl",
+        "IsMain": false,
+        "ProductId": 4
+      }
+    ],
+    "Reviews": [
+      {
+        "ReviewId": 7,
+        "Content": "Lorem Ipsum, Lorem Ipsum",
+        "ProductId": 4
+      },
+      {
+        "ReviewId": 8,
+        "Content": "LoooooLorem Ipsum, Lorem Ipsum",
+        "ProductId": 4
+      }
+    ]
+  },
+  {
+    "ProductId": 5,
+    "Name": "Poster",
+    "Description": "Lorem ipsum and lorem ipsum",
+    "Code": "D-1",
+    "Category": "Decorations",
+    "Photos": [
+      {
+        "PhotoId": 9,
+        "PhotoUrl": "www.google.pl",
+        "IsMain": true,
+        "ProductId": 5
+      },
+      {
+        "PhotoId": 10,
+        "PhotoUrl": "www.google.pl",
+        "IsMain": false,
+        "ProductId": 5
+      }
+    ],
+    "Reviews": [
+      {
+        "ReviewId": 9,
+        "Content": "Lorem Ipsum, Lorem Ipsum",
+        "ProductId": 5
+      },
+      {
+        "ReviewId": 10,
+        "Content": "LoooooLorem Ipsum, Lorem Ipsum",
+        "ProductId": 5
+      }
+    ]
+  },
+  {
+    "ProductId": 6,
+    "Name": "Plant2",
+    "Description": "Lorem ipsum and lorem ipsum",
+    "Code": "P-2",
+    "Category": "Plants",
+    "Photos": [
+      {
+        "PhotoId": 11,
+        "PhotoUrl": "www.google.pl",
+        "IsMain": true,
+        "ProductId": 6
+      },
+      {
+        "PhotoId": 12,
+        "PhotoUrl": "www.google.pl",
+        "IsMain": false,
+        "ProductId": 6
+      }
+    ],
+    "Reviews": [
+      {
+        "ReviewId": 11,
+        "Content": "Lorem Ipsum, Lorem Ipsum",
+        "ProductId": 6
+      },
+      {
+        "ReviewId": 12,
+        "Content": "LoooooLorem Ipsum, Lorem Ipsum",
+        "ProductId": 6
+      }
+    ]
+  },
+  {
+    "ProductId": 7,
+    "Name": "Notebook",
+    "Description": "Lorem ipsum and lorem ipsum",
+    "Code": "O-1",
+    "Category": "Other",
+    "Photos": [
+      {
+        "PhotoId": 13,
+        "PhotoUrl": "www.google.pl",
+        "IsMain": true,
+        "ProductId": 7
+      },
+      {
+        "PhotoId": 146,
+        "PhotoUrl": "www.google.pl",
+        "IsMain": false,
+        "ProductId": 7
+      }
+    ],
+    "Reviews": [
+      {
+        "ReviewId": 13,
+        "Content": "Lorem Ipsum, Lorem Ipsum",
+        "ProductId": 7
+      },
+      {
+        "ReviewId": 14,
+        "Content": "LoooooLorem Ipsum, Lorem Ipsum",
+        "ProductId": 7
+      }
+    ]
+  },
+  {
+    "ProductId": 8,
+    "Name": "Lamp",
+    "Description": "Lorem ipsum and lorem ipsum",
+    "Code": "O-2",
+    "Category": "Other",
+    "Photos": [
+      {
+        "PhotoId": 15,
+        "PhotoUrl": "www.google.pl",
+        "IsMain": true,
+        "ProductId": 8
+      },
+      {
+        "PhotoId": 16,
+        "PhotoUrl": "www.google.pl",
+        "IsMain": false,
+        "ProductId": 8
+      }
+    ],
+    "Reviews": [
+      {
+        "ReviewId": 15,
+        "Content": "Lorem Ipsum, Lorem Ipsum",
+        "ProductId": 8
+      },
+      {
+        "ReviewId": 16,
+        "Content": "LoooooLorem Ipsum, Lorem Ipsum",
+        "ProductId": 8
+      }
+    ]
+  }
+]
